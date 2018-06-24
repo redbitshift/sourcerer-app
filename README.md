@@ -11,7 +11,7 @@ A visual profile for software engineers.
 Make yours with your public GitHub: <a href="https://sourcerer.io/start">https://sourcerer.io/start</a>.
 <br>
 
-![profile-anishot](https://user-images.githubusercontent.com/35666548/41820879-78d9514a-778d-11e8-9602-eeb6c2130656.gif)
+![profile-anishot](https://user-images.githubusercontent.com/35666548/41821075-1bfa9ddc-7790-11e8-91fd-ad31f7a35bf8.gif)
 <br>
 
 What is it?
